@@ -1,0 +1,2 @@
+# Easist_realization_CRNN_for_Chinese
+不能更简单的基于keras的CRNN汉字识别代码
